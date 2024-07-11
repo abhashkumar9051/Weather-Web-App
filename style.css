@@ -8,7 +8,7 @@ body{
     color:#222;
 }
 .card{
-    width:90%;
+    width:95%;
     padding:40px 35px;
     background:linear-gradient(135deg,#00feba,#5b548a);
     max-width:470px;
@@ -28,23 +28,28 @@ body{
     outline:1;
     background:#ebfffc;
     color:#555;
-    padding:10px 25px;
+    padding:10px 15px;
     height:60px;
+    width:70%;
     border-radius:30px;
     font-size:18px;
-    margin-right:16px;
+    
+    
+
 }
 .search button{
-    width: 60px;
+    width:60px;
     height:60px;
-    border-radius:50%;
+    border-radius:100%;
     background-color:#ebfffc;
     border:0;
     outline:0;
     cursor:pointer;
+    
 }
 .search button img{
     width:16px;
+    
 }
 .weather-icon{
     width:170px;
